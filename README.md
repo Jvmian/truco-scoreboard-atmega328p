@@ -90,6 +90,32 @@ Detailed project documentation is available in the `docs/` directory, including:
 
 ---
 
+## 👥 Project Contributions
+
+This project was developed as a collaborative academic work, with clearly defined technical responsibilities across its development stages.
+
+**João Victor Mian Valdomiro**
+- System conception and overall project coordination  
+- Electronic circuit design and simulation using TinkerCAD  
+- Firmware development in C++ for the ATmega328P  
+- Custom PCB design  
+- Project documentation and repository organization  
+
+**Kaique Garrocini Miguel**
+- Physical assembly of the electronic prototype  
+- Construction of the project maquette  
+- Support during hardware validation and testing  
+
+**Paola Lohana Santos Rabelo**  
+**Felippe Andreazi**  
+**Guilherme Rebequi**
+- General support during project development  
+- Assistance with testing, validation, and project conclusion stages  
+
+This distribution of responsibilities ensured the successful implementation and validation of the system.
+
+---
+
 ## 🚀 Final Notes
 
 This project emphasizes the importance of understanding embedded systems beyond code, combining electronics, firmware, and practical validation into a complete and functional solution.
