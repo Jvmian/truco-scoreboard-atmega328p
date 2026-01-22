@@ -72,12 +72,13 @@ These materials validate the real-world functionality of the project.
 
 truco-scoreboard-atmega328p/
 │
-├── firmware/ # Embedded C++ code
-├── hardware/ # PCB file and schematic
-├── simulation/ # TinkerCAD project (schematic + simulation)
-├── media/ # Photos and demonstration video
-├── docs/ # Project documentation
-└── README.md
+├── firmware/ # Código embarcado em C++
+├── hardware/ # Arquivo da PCB e esquemático
+├── simulation/ # Projeto do TinkerCAD (esquemático + simulação)
+├── media/ # Fotos e vídeo de demonstração
+├── docs/ # Documentação do projeto
+├── README.md
+└── README-PT-BR.md
 
 ---
 
